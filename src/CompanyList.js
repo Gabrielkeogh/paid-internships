@@ -30,11 +30,11 @@ const fuseOptions = {
 class CompanyList extends Component {
 	constructor(props) {
 	    super(props); //grabs props from "component"
-	    // this.state = { greetings: ['Jim', 'Sally', 'bender'] }; 
+	    // this.state = { greetings: ['Jim', 'Sally', 'bender'] };
 	    this.searchBar = this.searchBar.bind(this);
 	    // this.removeGreeting = this.removeGreeting.bind(this);
 	    this.componentDidMount = this.componentDidMount.bind(this);
-	    this.state = data; //make the state of CompanyList 
+	    this.state = data; //make the state of CompanyList
 	}
 
 
@@ -86,7 +86,7 @@ class CompanyList extends Component {
 		                // console.log(newState);
 		                // data.sites = newState; //set the "sites" array in data to the new info from spreadsheet
 		                console.log(data.sites);
-		                
+
 		            } else {
 		                console.log('No data found.');
 		            }
@@ -97,9 +97,9 @@ class CompanyList extends Component {
 		        // signoutButton.onclick = handleSignoutClick;
 		    });
 		}
-
+// comment test
 		// function listMajors() {
-			
+
 		// }
 
 	}
@@ -145,8 +145,8 @@ class CompanyList extends Component {
 	// 	      // newState[i].name = row[0];
 	// 	      // newState[i].website = row[1];
 	// 	      newState.push(firmObject);
-	// 	      //maybe here make a 
-	// 	      // Print columns A and E, which correspond to indices 0 and 4. 
+	// 	      //maybe here make a
+	// 	      // Print columns A and E, which correspond to indices 0 and 4.
 	// 	    }
 	// 	    console.log(newState);
 	// 	    this.setState({sites: newState});
