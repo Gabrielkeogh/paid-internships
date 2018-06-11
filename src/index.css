@@ -1,7 +1,7 @@
 :root {
   --main-color: #000000;
   --highlight-color: #D6517A;
-  --background-color: #D7D5D8;
+  --background-color: #F2D398;
 }
 
 @import url('https://rsms.me/inter/inter-ui.css');
@@ -52,7 +52,7 @@ textarea:focus, input:focus{
     outline: none;
 }
 
-::placeholder { 
+::placeholder {
    color: #bbbbbb;
 }
 
@@ -206,5 +206,3 @@ padding-right: 10px;}
         font-size: 60%;
     }
 }
-
-
