@@ -6,9 +6,9 @@ import Fuse from 'fuse.js';
 
 import data from './data.json';
 
-const spreadsheet_id = '1xNsQmQpY9q17AmFMTQ08KdrCMIv2pIs3NV0OFvGpQQg'
-const CLIENT_ID = '302317628990-uprj9ltm5kdls08cho810kog75o469qq.apps.googleusercontent.com';
-const API_KEY = 'AIzaSyD14ItLXnxvvSgeovNvQB7FVkyIKd555NU';
+const spreadsheet_id = '1qX2shlHK0sNkclwUeIu63CpSbuQfaw59Z4TYHlhx9u0'
+const CLIENT_ID = '354542073761-4m0cb0ppuu6cvuhnh5avr0klmnj2u54k.apps.googleusercontent.com';
+const API_KEY = 'AIzaSyDXDxdlJO7aeBS4ToXd3NCtpCUOF4m_hcM';
 // Array of API discovery doc URLs for APIs used by the quickstart
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
 // Authorization scopes required by the API; multiple scopes can be
