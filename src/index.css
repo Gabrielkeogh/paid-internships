@@ -1,7 +1,7 @@
 :root {
-  --main-color: #000000;
+  --main-color: #FFFFFF;
   --highlight-color: #D6517A;
-  --background-color: #F2D398;
+  --background-color: #2B60DE;
 }
 
 @import url('https://rsms.me/inter/inter-ui.css');
