@@ -1,5 +1,5 @@
 :root {
-  --main-color: #ED5785;
+  --main-color: #2b60de;
   --highlight-color: #5191E3;
 }
 
@@ -48,7 +48,7 @@ textarea:focus, input:focus{
     outline: none;
 }
 
-::placeholder { 
+::placeholder {
    color: #E4ADB7;
 }
 
@@ -79,4 +79,3 @@ a:hover{
     transform-origin: 0% 50%;
     transform: scale(1.8);
 }
-
