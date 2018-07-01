@@ -30,7 +30,7 @@ class Popup extends Component {
               <ul>
                 <li>
                   <label>Who made this, and why?</label>
-                  <p> We're <a href="mailto:mail@gabrielkeogh.co"> Gabriel </a> and <a href="http://barronwebster.com"> Barron </a>. We made this to help anyone find an internship that they can afford to take in London. Barron originally came up with the idea to build <a href="http://payinterns.nyc"> payinterns.nyc </a> on which this website is based. Internships are arguably the best way to get a foot in the door in the creative industry, but living in the Big Smoke ain't cheap .</p>
+                  <p> We're <a href="mailto:mail@gabrielkeogh.co"> Gabriel </a> and <a href="http://barronwebster.com"> Barron </a>. We made this to help anyone find an internship that they can afford to take in London. Barron originally came up with the idea to build <a href="http://payinterns.nyc"> payinterns.nyc </a> on which this website is based. Internships are arguably the best way to get a foot in the door in the creative industry, but living in the Big Smoke ain't cheap.</p>
                 </li>
                 <li>
                   <label>How was this data gathered?</label>
@@ -38,7 +38,7 @@ class Popup extends Component {
                 </li>
                 <li>
                   <label>Why £10.20?</label>
-                  <p>£10.20 is the current living wage for London, according to <a href="https://www.livingwage.org.uk/calculation"> the London Living Wage Foundation. This number is ajdusted yearly — it rose to £10.20 recently.</a></p>
+                  <p>£10.20 is the current living wage for London, according to <a href="https://www.livingwage.org.uk/calculation"> the London Living Wage Foundation. This number is ajdusted yearly — it rose to £10.20 recently.</a> </p>
                 </li>
                 <li>
                   <label>I know/am an employer who fits this description. <br/>Can you include them/me?</label>
