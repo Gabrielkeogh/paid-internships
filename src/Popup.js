@@ -30,7 +30,7 @@ class Popup extends Component {
               <ul>
                 <li>
                   <label>Who made this, and why?</label>
-                  <p> We're <a href="mailto:mail@gabrielkeogh.co"> Gabriel </a> and <a href="http://barronwebster.com/"> Barron </a> We made this to help anyone find an internship that they can afford to take in London. Barron originally came up with the idea to build <a href="http://payinterns.nyc"/> payinterns.nyc</a>, on which this website is based. Internships are arguably the best way to get a foot in the door in the creative industry, but living in the Big Smoke ain't cheap .</p>
+                  <p> We're <a href="mailto:mail@gabrielkeogh.co"> Gabriel </a> and <a href="http://barronwebster.com"> Barron </a> We made this to help anyone find an internship that they can afford to take in London. Barron originally came up with the idea to build <a href="http://payinterns.nyc"> payinterns.nyc </a>, on which this website is based. Internships are arguably the best way to get a foot in the door in the creative industry, but living in the Big Smoke ain't cheap .</p>
                 </li>
                 <li>
                   <label>How was this data gathered?</label>
